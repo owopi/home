@@ -1,0 +1,29 @@
+.nav {
+    background-color: var(--gray);
+    height: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: black;
+    font-weight: bold;
+}
+a:visited {
+    color: black;
+    font-weight: bold;
+}
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+a:active {
+    color: black;
+    font-weight: bold;
+}
+
+.middle__text {
+    display: grid;
+    justify-content: center;
+}
