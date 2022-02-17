@@ -1,0 +1,55 @@
+body
+{
+    background-color: #EDEEC0;
+
+}
+@font-face
+{
+    font-family: "CustomFont";
+    src: url("Brexterdemo-1G4Pe.otf")format("opentype");
+}
+h1 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 72px;
+    color: #0075A2;
+    text-align: center;
+}
+
+h2
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:normal;
+    font-size:48px;
+    color: #E85F5C;
+    text-align: center;
+}
+
+h3
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+    font-size:32px;
+    color:#628B48;
+    text-align: center;
+}
+
+p
+{
+    font-family:monospace;
+}
+
+#Contents
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Main_Header
+{
+    height: 500px;
+    background-image: url(bannertest.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+
+}
